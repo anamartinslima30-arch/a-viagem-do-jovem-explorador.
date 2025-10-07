@@ -1,9 +1,11 @@
 body{
     background-color: rgb(59, 21, 95);
     color:chartreuse
-
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .img01{
-    width: 95%
+    width: 80%
 }
