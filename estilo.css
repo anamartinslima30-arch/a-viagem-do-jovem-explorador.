@@ -1,6 +1,6 @@
 body{
-    background-color: rgb(149, 254, 143);
-    color:rgb(178, 251, 104)
+    background-color: rgb(73, 43, 77);
+    color:rgb(160, 81, 229)
     display: flex;
     justify-content: center;
     align-items: center;
@@ -10,8 +10,8 @@ main{
     max-width: 75%;
 }
 button{
-    background-color: darkseagreen;
-    color: beige;
+    background-color: rgb(107, 17, 145);
+    color: rgb(83, 25, 120);
     padding: 20px;
 
 .img01{
